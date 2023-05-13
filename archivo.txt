@@ -1,0 +1,1 @@
+Hola querido diario, el maestro Mascote nos hizo crear una cuenta en GithHub, otra en PubNub e instalamos angular 15, vs code, cors, node js, y git.
